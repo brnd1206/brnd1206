@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bernardo
 
-- 💻 Estou cursando o bacharelado de Ciências da Computação.
+- 💻 Estou cursando o bacharelado de Ciência da Computação.
 - 🎱 Interessado em desenvolvimento de jogos e back-end.
 - 🚩 Focado em aprender e aplicar novas tecnologias para resolver problemas do mundo real.
 
