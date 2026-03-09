@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bernardo
 
-- 💻 Estou cursando o bacharelado de Ciência da Computação.
-- 🎱 Interessado em desenvolvimento de jogos e back-end.
-- 🚩 Focado em aprender e aplicar novas tecnologias para resolver problemas do mundo real.
+- Estou cursando o bacharelado de Ciência da Computação.
+- Interessado em desenvolvimento de jogos.
+- Focado em aprender e aplicar novas tecnologias para resolver problemas do mundo real.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Berna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
