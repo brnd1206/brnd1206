@@ -35,7 +35,7 @@ Aqui estão alguns dos projetos práticos que desenvolvi:
 
 * **[BSB-Compute](https://github.com/brnd1206/BSB-Compute) (Python):** Software de simulação que atua como orquestrador de tarefas para um cluster de inferência de Inteligência Artificial.
 * **[Sistema de Gestão de Eventos Acadêmicos - SGEA](https://github.com/brnd1206/Sistema-de-Gestao) (Python):** Aplicação web desenvolvida para gerenciar eventos como seminários, palestras, minicursos e semanas acadêmicas.
-* **[Sistema de Controle de Empréstimos](https://github.com/brnd1206/Sistema-de-Emprestimo) (PostgreSQL):** Modelagem e implementação de regras de negócio diretamente no banco de dados, utilizando funções, gatilhos (triggers) e restrições de integridade.
+* **[Pac-Man MiniMax](https://github.com/brnd1206/Pacman-MiniMax) (Python):** Implementação do algoritmo Minimax para controlar o Pac-Man de forma autônoma.
 * **[Gerenciador de Tarefas](https://github.com/brnd1206/Gerenciador-de-Tarefas) (Python e MySQL):** Aplicação com operações CRUD completas para cadastrar, atualizar e excluir tarefas, além de relacioná-las a usuários específicos.
 
 ---
